@@ -1,0 +1,18 @@
+<!-- 2) Write an HTML script to demonstrate how to add or insert
+image as a link. -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMAGE AS LINK</title>
+</head>
+<body>
+    <h1>Click Image Link</h1>
+    <p>Click the image below to visit crunchyroll.com</p>
+    <a href="https://www.crunchyroll.com/" target="_blank">
+        <img src="Tanjiro.jpg" alt="open crunchyroll" width="100">
+    </a>
+</body>
+</html>   
